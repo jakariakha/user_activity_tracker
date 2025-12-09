@@ -1,0 +1,6 @@
+09-12-2025 15:08:50 | khan92 | cd
+09-12-2025 15:08:53 | khan92 | cp -r /opt/user_activity_tracker/* /user_activity_tracker/
+09-12-2025 15:09:07 | khan92 | cd user_activity_tracker
+09-12-2025 15:09:09 | khan92 | pwd
+09-12-2025 15:09:12 | khan92 | cd
+09-12-2025 15:09:17 | khan92 | cp -r /opt/user_activity_tracker/* /user_activity_tracker
